@@ -1,1 +1,1 @@
-Licensed under [[MIT license]](LICENSE)
+Licensed under [MIT license](LICENSE)
