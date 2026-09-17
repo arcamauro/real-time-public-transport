@@ -1,3 +1,8 @@
 spring:
   application:
     name: real-time-public-transport
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
